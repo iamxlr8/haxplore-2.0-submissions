@@ -1,18 +1,29 @@
+# HaXplore 2.0 - Submission Report Format
 
-# HaXplore 2.0, CodeFest 2021 Submissions
+This is the official code repository for _TEAM NAME_ . This _type of application_ was developed during HaXplore 2.0, 
+the online hackathon conducted by Codefest, the annual departmental fest of Computer Science department, IIT BHU Varanasi.
 
-## Submissions
-1. The Team Leader has to fork this repository using his/her GitHub Account. You can change the name of the fork repository as you wish. This repository will contain the complete submission, including the code, design and submission idea file.
-2. In Devfolio, update the Github submission link with the link to the above-forked repository.
-3. For the first phase of the hackathon, you have to rename the ***submission_README.md*** file to ***README.md*** and update it with your idea in the format specified in the file.
-4. The deadline to complete the above task is **27th March 6 PM sharp**.
+### _Fruit Beer_
 
-## Project Track:
-Choose from -
-- #### [Amazon Web Services Track](https://docs.google.com/document/d/16wxLl_8Eqw_bcjY28FnP3bc2YihB6pCN5aPAmF5An_o/edit?usp=sharing)
-- #### [Polygon - Hackathon Season Prize](https://www.notion.so/Polygon-Devfolio-Hackathon-Season-Prize-de8961d5eeff4780963749da0b75037c)
-- #### [Portis - Hackathon Season Prize](https://www.notion.so/Portis-by-Shapeshift-Devfolio-Hackathon-Season-Prize-e198dfd094a9411b8cd0f80d76a04a90)
-- #### [Tezos - Hackathon Season Prize](https://www.notion.so/Tezos-Devfolio-Hackathon-Season-Prize-e90b6811b0df43e5a7dadf534fc000ff)
+* _K Gautham Sai_
+* _Janhavi Gupta_
+* _Parv Jain_
+* _Prabhash Kumar_
+
+#### _Rent-a-folio_
 
 
-You can find more details about the project tracks [here](https://drive.google.com/file/d/1699uvvBwiLcC8T6Cw9KYcHh-PysUI2448Vmz4Y7d7K8/view).
+#### Overview
+
+_An online portal for book lovers to lend and rent books from like minded people at affordable prices! Try a book -- buy if you love it._
+
+#### Technology used
+
+_Django, Bootstrap, MySQL, Instamojo API for payment gateway_
+
+
+#### Usage
+
+_1. pip install -r requirements.txt to install the requirements._
+_2. python manage.py runserver to run the project._
+
